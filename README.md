@@ -60,5 +60,5 @@ note: npx is included with npm > v5.2 or can be installed separately.
 ```bash
 npx cypress open
 ```
-After a moment, the Cypress Test Runner will launch.
 
+After a moment, the Cypress Test Runner will launch.
