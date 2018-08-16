@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a6d0f0a-7ee4-4f71-ad8f-ba3e1e1a5aae" name="Default" comment="" />
+    <list default="true" id="2a6d0f0a-7ee4-4f71-ad8f-ba3e1e1a5aae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/test_bbc.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/test_bbc.spec.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_bbc.spec.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cypress/integration/examples/test_bbc.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -39,6 +55,7 @@
     <option name="width" value="1865" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,6 +75,36 @@
               <item name="playground" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -65,7 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="READM&#9;FILE&#9;file:///Users/i860753/playground/node_modules/concat-map/README.markdown&#10;cypress.js&#9;FILE&#9;file:///Users/i860753/playground/cypress.json&#10;pack&#9;FILE&#9;file:///Users/i860753/playground/node_modules/ajv/package.json" />
+    <property name="SearchEverywhereHistoryKey" value="README&#9;FILE&#9;file:///Users/i860753/playground/node_modules/ajv/README.md&#10;READM&#9;FILE&#9;file:///Users/i860753/playground/node_modules/concat-map/README.markdown&#10;cypress.js&#9;FILE&#9;file:///Users/i860753/playground/cypress.json&#10;pack&#9;FILE&#9;file:///Users/i860753/playground/node_modules/ajv/package.json" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -157,6 +204,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1865" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -164,7 +212,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32962963" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25233132" />
@@ -283,13 +331,6 @@
     <entry file="file://$PROJECT_DIR$/cypress/integration/examples/traversal.spec.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cypress/integration/examples/test_bbc.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cypress.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -321,6 +362,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="10" lean-forward="true" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ajv/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/integration/examples/test_bbc.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>

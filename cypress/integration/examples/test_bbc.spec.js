@@ -17,6 +17,7 @@ describe('Upside - My First Cypress Test', function() {
              // extract the fully qualified href property
              const href = $a.prop('href')
 
+             // Should be on a new URl which includes 'href'
              cy.url().should('include', href)
         }
         )
