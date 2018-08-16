@@ -62,3 +62,7 @@ npx cypress open
 ```
 
 After a moment, the Cypress Test Runner will launch.
+
+
+
+### In the Cypress Test Runner UI, click "Integration Tests" --> "examples" --> "test_bbc.spec.js" to run the test.
