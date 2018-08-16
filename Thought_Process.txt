@@ -1,0 +1,10 @@
+Upside Coding Assignment
+
+I originally had experience writing automated UI tests using Selenium Webdriver and plain old Java. This usually involved creating and contributing to a large and convoluted project built using Gradle or Maven. Being that I have never created UI tests in JavaScript, I was prepared to virtually make the same effort for this coding assignment. Little did I know that most of the popular JavaScript testing frameworks required only a few terminal commands to get started. 
+
+I've heard of colleagues and friends using Mocha, Jasmine, TestCafe, and Protractr so I looked into those first. I have written some tests in Node.js before so Mocha was in the running until I came across Cypress(https://www.cypress.io/). I was won over by four things: 
+
+1) Distinct and concise documentation.
+2) Used Mocha as test structure(running on Node.js which I had some familiarity with).
+3) Automatically waits for commands and assertions before moving on.
+4) Easy to integrate Cypress with your CI tool of choice(https://docs.cypress.io/guides/guides/continuous-integration.html#).
